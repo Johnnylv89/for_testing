@@ -1,0 +1,12 @@
+spaces = ' ' * 25
+print('%s Ukraine' % spaces)
+print('%s Lviv' % spaces)
+print('%s to Yan' % spaces)
+print()
+print()
+print('Dear Colleague,')
+print()
+print('please take on the 2nd flour your new card.')
+print()
+print('Best regards,')
+print('Maryana')
